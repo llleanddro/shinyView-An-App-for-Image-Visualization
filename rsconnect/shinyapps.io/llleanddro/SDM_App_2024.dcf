@@ -1,0 +1,13 @@
+name: SDM_App_2024
+title: SDM_App_2024
+username: llleanddro
+account: llleanddro
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11043134
+bundleId: 8385691
+url: https://llle.shinyapps.io/SDM_App_2024/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_backup_28_1_24.R|app_backup_29_1_24.R
